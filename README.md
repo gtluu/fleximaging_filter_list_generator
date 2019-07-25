@@ -1,2 +1,2 @@
-# fleximaging_filter_list_generator
+# Bruker flexImaging Filter List Generator
 Generate m/z filter list in .mir format for Bruker flexImaging from m/z list.
