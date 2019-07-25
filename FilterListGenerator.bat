@@ -1,3 +1,3 @@
 Pushd "%~dp0"
-python mir_generator_gui.py
+python fleximaging_filter_list_generator.py
 pause
