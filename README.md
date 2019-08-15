@@ -15,6 +15,12 @@ Python 2 with modules PyQT4, ElementTree, pandas, sys, os, random.
 6. Analyze data!
 
 ## Bruker flexImaging AutoHotKey Macros
+Automatically tab through ion images and map F2 key to add ion to filter list in Bruker flexImaging.
+
+### Dependencies
+AutoHotKey
+
+### Instructions
 1.	Download and install AutoHotKey if necessary.
 2.	Download the script and place it the desired directory.
 3.	Double-click the script to run.
