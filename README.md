@@ -1,4 +1,4 @@
-# flexImaging for the Lazy
+# Imaging mass spectrometry scripts for use with Bruker's flexImaging
 
 ## Bruker flexImaging Filter List Generator
 Generate m/z filter list in .mir format for Bruker flexImaging from m/z list.
